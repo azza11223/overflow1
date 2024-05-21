@@ -1,0 +1,10 @@
+div{
+    width: 232px;
+    height: 297px;
+    top: 9px;
+    left: 8px;
+    border: 1px solid;
+    border-color: 
+    rgba(204, 204, 204, 1); 
+   overflow-x: scroll;
+}
